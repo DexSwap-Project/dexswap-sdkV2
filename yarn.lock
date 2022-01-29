@@ -3214,9 +3214,9 @@ detect-newline@^2.1.0:
   resolved "https://registry.yarnpkg.com/detect-newline/-/detect-newline-2.1.0.tgz#f41f1c10be4b00e87b5f13da680759f2c5bfd3e2"
   integrity sha1-9B8cEL5LAOh7XxPaaAdZ8sW/0+I=
 
-"dexswap-core@git://github.com/DexSwap-Project/contracts-factoryV2#testnet":
+"dexswap-core@git://github.com/DexSwap-Project/contracts-factoryV2.git#testnet":
   version "0.1.6"
-  resolved "git://github.com/DexSwap-Project/contracts-factoryV2#b422309aa871b593a2c6f9970bf719ecd7da7369"
+  resolved "git://github.com/DexSwap-Project/contracts-factoryV2.git#b422309aa871b593a2c6f9970bf719ecd7da7369"
   dependencies:
     "@harmony-js/core" "^0.1.57"
     "@truffle/hdwallet-provider" "^1.4.0"
@@ -3224,9 +3224,9 @@ detect-newline@^2.1.0:
     typescript "^3.9.5"
     zeppelin-solidity "^1.12.0"
 
-"dexswap-periphery@git://github.com/DexSwap-Project/contracts-routerV2#testnet":
+"dexswap-periphery@git://github.com/DexSwap-Project/contracts-routerV2.git#testnet":
   version "0.3.4"
-  resolved "git://github.com/DexSwap-Project/contracts-routerV2#c3c71a0dade77c6e2a1455288d3cc35549af8562"
+  resolved "git://github.com/DexSwap-Project/contracts-routerV2.git#c3c71a0dade77c6e2a1455288d3cc35549af8562"
   dependencies:
     "@truffle/hdwallet-provider" "^1.4.0"
 
